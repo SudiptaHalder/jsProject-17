@@ -1,0 +1,17 @@
+body{
+    overflow: hidden;
+    background-color: rgb(41, 37, 62);
+    color: rgb(252, 252, 252);
+    font-family: Arial, Helvetica, sans-serif;
+}
+canvas{
+    border: 1px solid rgb(175, 38, 38);
+    width: 100%;
+}
+*{
+    user-select: none;
+}
+.text{
+    margin-top: 20px;
+    text-align: center;
+}
